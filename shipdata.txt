@@ -1,0 +1,19 @@
+2
+Serenity
+Malcolm Reynolds
+7
+Bay 20 20 10
+Bridge 10 30 7
+Latrine 4 5 7
+Cabin 5 5 10
+Cabin 5 5 10
+Cabin 5 5 10
+Cabin 5 5 10
+Enterprise
+Jean-Luc Picard
+5
+Bridge 30 30 30
+Bay 2 2 6
+Bay 4 5 2
+Bay 4 5 2
+Latrine 6 6 6
